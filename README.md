@@ -1,3 +1,3 @@
 # Python OO studies
 
-Project to learn and practive Python OO
+Project to learn and practice Python OO
